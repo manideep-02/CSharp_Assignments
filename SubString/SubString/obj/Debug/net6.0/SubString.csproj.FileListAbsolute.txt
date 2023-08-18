@@ -1,0 +1,15 @@
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\bin\Debug\net6.0\SubString.exe
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\bin\Debug\net6.0\SubString.deps.json
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\bin\Debug\net6.0\SubString.runtimeconfig.json
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\bin\Debug\net6.0\SubString.dll
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\bin\Debug\net6.0\SubString.pdb
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.csproj.AssemblyReference.cache
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.AssemblyInfoInputs.cache
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.AssemblyInfo.cs
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.csproj.CoreCompileInputs.cache
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.dll
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\refint\SubString.dll
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.pdb
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\SubString.genruntimeconfig.cache
+C:\Users\Manideep Enagandula\source\repos\SubString\SubString\obj\Debug\net6.0\ref\SubString.dll
