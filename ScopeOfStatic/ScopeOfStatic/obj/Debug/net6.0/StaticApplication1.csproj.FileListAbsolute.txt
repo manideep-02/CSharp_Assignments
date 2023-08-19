@@ -1,0 +1,15 @@
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\bin\Debug\net6.0\StaticApplication1.exe
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\bin\Debug\net6.0\StaticApplication1.deps.json
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\bin\Debug\net6.0\StaticApplication1.runtimeconfig.json
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\bin\Debug\net6.0\StaticApplication1.dll
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\bin\Debug\net6.0\StaticApplication1.pdb
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.csproj.AssemblyReference.cache
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.AssemblyInfoInputs.cache
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.AssemblyInfo.cs
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.dll
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\refint\StaticApplication1.dll
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.pdb
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\StaticApplication1.genruntimeconfig.cache
+C:\Users\Manideep Enagandula\source\repos\ScopeOfStatic\ScopeOfStatic\obj\Debug\net6.0\ref\StaticApplication1.dll

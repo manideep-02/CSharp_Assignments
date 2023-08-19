@@ -1,0 +1,15 @@
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\bin\Debug\net6.0\GarbageCollectorGenerations.exe
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\bin\Debug\net6.0\GarbageCollectorGenerations.deps.json
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\bin\Debug\net6.0\GarbageCollectorGenerations.runtimeconfig.json
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\bin\Debug\net6.0\GarbageCollectorGenerations.dll
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\bin\Debug\net6.0\GarbageCollectorGenerations.pdb
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.csproj.AssemblyReference.cache
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.AssemblyInfoInputs.cache
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.AssemblyInfo.cs
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.csproj.CoreCompileInputs.cache
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.dll
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\refint\GarbageCollectorGenerations.dll
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.pdb
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\GarbageCollectorGenerations.genruntimeconfig.cache
+C:\Users\Manideep Enagandula\source\repos\GarbageCollectorGenerations\GarbageCollectorGenerations\obj\Debug\net6.0\ref\GarbageCollectorGenerations.dll
