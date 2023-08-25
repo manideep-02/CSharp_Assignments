@@ -1,0 +1,15 @@
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\bin\Debug\net6.0\SingleTon Design Pattern.exe
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\bin\Debug\net6.0\SingleTon Design Pattern.deps.json
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\bin\Debug\net6.0\SingleTon Design Pattern.runtimeconfig.json
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\bin\Debug\net6.0\SingleTon Design Pattern.dll
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\bin\Debug\net6.0\SingleTon Design Pattern.pdb
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.csproj.AssemblyReference.cache
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.AssemblyInfoInputs.cache
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.AssemblyInfo.cs
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.dll
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\refint\SingleTon Design Pattern.dll
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.pdb
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\SingleTon Design Pattern.genruntimeconfig.cache
+C:\Users\Manideep Enagandula\source\repos\SingleTon Design Pattern\SingleTon Design Pattern\obj\Debug\net6.0\ref\SingleTon Design Pattern.dll
