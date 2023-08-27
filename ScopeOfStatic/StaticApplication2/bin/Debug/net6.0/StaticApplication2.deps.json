@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StaticApplication2/1.0.0": {
+        "dependencies": {
+          "StaticApplication1": "1.0.0"
+        },
+        "runtime": {
+          "StaticApplication2.dll": {}
+        }
+      },
+      "StaticApplication1/1.0.0": {
+        "runtime": {
+          "StaticApplication1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticApplication2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StaticApplication1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

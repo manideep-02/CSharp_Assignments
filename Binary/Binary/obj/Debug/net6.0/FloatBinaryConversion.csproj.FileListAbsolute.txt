@@ -1,0 +1,15 @@
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\bin\Debug\net6.0\FloatBinaryConversion.exe
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\bin\Debug\net6.0\FloatBinaryConversion.deps.json
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\bin\Debug\net6.0\FloatBinaryConversion.runtimeconfig.json
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\bin\Debug\net6.0\FloatBinaryConversion.dll
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\bin\Debug\net6.0\FloatBinaryConversion.pdb
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.csproj.AssemblyReference.cache
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.AssemblyInfoInputs.cache
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.AssemblyInfo.cs
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.csproj.CoreCompileInputs.cache
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.dll
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\refint\FloatBinaryConversion.dll
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.pdb
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\FloatBinaryConversion.genruntimeconfig.cache
+C:\Users\Manideep Enagandula\source\repos\Binary\Binary\obj\Debug\net6.0\ref\FloatBinaryConversion.dll

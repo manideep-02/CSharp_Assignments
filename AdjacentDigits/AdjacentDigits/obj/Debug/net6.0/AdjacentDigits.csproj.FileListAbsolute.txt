@@ -1,0 +1,15 @@
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\bin\Debug\net6.0\AdjacentDigits.exe
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\bin\Debug\net6.0\AdjacentDigits.deps.json
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\bin\Debug\net6.0\AdjacentDigits.runtimeconfig.json
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\bin\Debug\net6.0\AdjacentDigits.dll
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\bin\Debug\net6.0\AdjacentDigits.pdb
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.csproj.AssemblyReference.cache
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.AssemblyInfoInputs.cache
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.AssemblyInfo.cs
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.csproj.CoreCompileInputs.cache
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.dll
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\refint\AdjacentDigits.dll
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.pdb
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\AdjacentDigits.genruntimeconfig.cache
+C:\Users\Manideep Enagandula\source\repos\AdjacentDigits\AdjacentDigits\obj\Debug\net6.0\ref\AdjacentDigits.dll
